@@ -1,0 +1,131 @@
+{
+    "name": "Abde Lali",
+    "headerTaglineOne": "Hello 👋",
+    "headerTaglineTwo": "I'm Abde Lali Akarkoune - curious",
+    "headerTaglineThree": "Full-Stack Web Developer",
+    "headerTaglineFour": " based in Agadir, Morocco.",
+    "showCursor": true,
+    "showBlog": true,
+    "darkMode": true,
+    "showResume": true,
+    "socials": [
+        {
+            "id": "1",
+            "title": "Github",
+            "link": "https://github.com/ABDE-LALI"
+        },
+        {
+            "id": "2",
+            "title": "LinkedIn",
+            "link": "https://www.linkedin.com/in/abdelaliakarkoune/"
+        },
+        {
+            "id": "3",
+            "title": "X",
+            "link": "https://x.com/abde_lali_ak"
+        },
+        {
+            "id": "5",
+            "title": "Email",
+            "link": "https://mailto:abdelaliakarkoune@gmail.com"
+        }
+    ],
+    "projects": [
+        {
+            "id": "1",
+            "title": "GreenPressing POS",
+            "description": "POS System for GreenPressing Laundry",
+            "imageSrc": "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+            "url": "http://google.com/"
+        },
+        {
+            "id": "2",
+            "title": "Brikoulchi",
+            "description": "Web Services Application (Collabatative Project)",
+            "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
+            "url": "https://brikoulchi.netlify.app/"
+        }
+    ],
+    "services": [
+        {
+            "id": "1",
+            "title": "Full-Stack Web Development",
+            "description": "Building robust and scalable web applications using Laravel, React.js, MySQL, and secure RESTful APIs."
+        },
+        {
+            "id": "2",
+            "title": "REST API Design",
+            "description": "Designing and developing efficient, secure RESTful APIs to connect systems and streamline data exchange."
+        },
+        {
+            "id": "3",
+            "title": "MERN Stack Development",
+            "description": "Building full-stack web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). From responsive front-end interfaces to scalable back-end APIs and NoSQL database integration, I deliver complete solutions tailored to your business needs."
+        },
+        {
+            "id": "4",
+            "title": "Database Optimization",
+            "description": "Designing and optimizing high-performance databases (MySQL, SQLite) for fast queries and scalable data structures."
+        },
+        {
+            "id": "5",
+            "title": "Offline Web Applications",
+            "description": "Developing web apps with offline functionality using technologies like Electron and local storage solutions."
+        },
+        {
+            "id": "6",
+            "title": "Deployment & Maintenance",
+            "description": "Deploying, maintaining, and continuously improving web applications using Git, Docker, and DevOps best practices."
+        }
+    ],
+    "aboutpara": "Full-Stack Web Developer with practical experience building responsive, scalable web applications using Laravel, React, and modern tools. Skilled in API design, offline-first systems, and database optimization. Passionate about clean code, teamwork, and continuous learning.",
+    "resume": {
+        "1": {
+            "universityName": "Specialized Institute of Applied Technology – Agadir",
+            "universityDate": "2023 - 2025",
+            "universityPara": "Completed hands-on training in full-stack development with a focus on Laravel, React, and cross-platform systems. Specialized in building scalable apps, optimizing databases, and deploying production-grade projects."
+        },
+        "tagline": "👋 I'm a Full-Stack Web Developer with a passion for modern web technologies.",
+        "description": "I build robust full-stack applications with Laravel, the MERN Stack (MongoDB, Express.js, React, Node.js), and modern tools. I integrate performant APIs and implement offline-first solutions using tools like SQLite and Electron. I thrive in collaborative teams and am committed to writing clean, maintainable code.",
+        "education": [
+            {
+                "id": "1",
+                "dates": "2023 - 2025",
+                "type": "Learning By Doing",
+                "position": "Student Developer – Specialized Institute of Applied Technology",
+                "bullets": "Built full-stack apps with optimized backend-frontend integration, Designed scalable databases, Developed cross-platform solutions, Led team-based projects with modern tools, Applied rigorous testing for production-ready code"
+            },
+            {
+                "id": "2",
+                "dates": "2020 - 2022",
+                "type": "Theoretical Foundation",
+                "position": "DEUG in Physical Sciences – Ibn Zohr University",
+                "bullets": "Developed strong analytical and modeling skills, Learned scientific research methods, Applied mathematical problem-solving techniques"
+            }
+        ],
+        "languages": [
+            "JavaScript",
+            "JSX",
+            "SCSS",
+            "PHP",
+            "SQL",
+            "C"
+        ],
+        "frameworks": [
+            "React.js",
+            "Laravel",
+            "Inertia.js",
+            "Express.js",
+            "Next.js"
+        ],
+        "others": [
+            "Docker",
+            "Git/GitHub",
+            "Agile/Scrum",
+            "Jira",
+            "RabbitMQ",
+            "Electron",
+            "SonarQube"
+        ]
+    }
+}
