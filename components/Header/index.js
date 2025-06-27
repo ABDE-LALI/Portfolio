@@ -119,7 +119,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
         )}
       </Popover>
       <div
-        className={`px-5 py-5 hidden flex-row items-center bg-gradient-to-b from-black to-transparent bg-opacity-0 backdrop-blur-10 justify-between sticky ${
+        className={`px-5 py-5 hidden flex-row items-center ${theme === "dark"?"bg-gradient-to-b from-black":"bg-gradient-to-b from-white"} to-transparent bg-opacity-0 backdrop-blur-10 justify-between sticky ${
           theme === "light" && "bg-white"
         } dark:text-white top-0 z-10 tablet:flex`}
       >

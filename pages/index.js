@@ -58,13 +58,12 @@ export default function Home() {
       <div className="gradient-circle"></div>
       <div className="gradient-circle-bottom"></div>
 
-      <div className="container mx-auto mb-10">
+      <div className="container mb-10">
         <Header
           handleWorkScroll={handleWorkScroll}
           handleAboutScroll={handleAboutScroll}
         />
         <div className="laptop:mt-20 mt-10">
-          <div className="p-5">
             <div className="mt-5">
               <h1
                 ref={textOne}
@@ -136,7 +135,6 @@ export default function Home() {
               </p>
             </div>
             <Footer />
-          </div>
         </div>
       </div>
     </div>
