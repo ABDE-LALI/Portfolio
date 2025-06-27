@@ -32,12 +32,12 @@ const Resume = () => {
         </div>
       )}
       {data.showCursor && <Cursor />}
+      <Header isBlog />
       <div
         className={`container mx-auto mb-10 ${
           data.showCursor && "cursor-none"
         }`}
       >
-        <Header isBlog />
         {mount && (
           <div className="mt-10 w-full flex flex-col items-center">
             <div
@@ -82,7 +82,7 @@ const Resume = () => {
               </div> */}
               <div className="mt-5">
                 <h1 className="text-2xl font-bold">Skills</h1>
-                <div className="flex mob:flex-col desktop:flex-row justify-between">
+                <div className="flex font-bold mob:flex-row desktop:flex-row  justify-around">
                   {resume.languages && (
                     <div className="mt-2 mob:mt-5">
                       <h2 className="text-lg">Languages</h2>
