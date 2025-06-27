@@ -14,9 +14,9 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
   const { name, showBlog, showResume } = data;
 
   useEffect(() => {
-    setMounted(true);
+    setMounted(true);    
   }, []);
-
+  
   return (
     <>
       <Popover className="block tablet:hidden mt-5">
@@ -119,8 +119,8 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
         )}
       </Popover>
       <div
-        className={`px-5 py-5 hidden flex-row items-center ${theme === "dark"?"bg-gradient-to-b from-black":"bg-gradient-to-b from-white"} to-transparent bg-opacity-0 backdrop-blur-10 justify-between sticky ${
-          theme === "light" && "bg-white"
+        className={`px-5 py-5 hidden flex-row items-center bg-gradient-to-b from-slate-500 to-transparent backdrop-blur-10 justify-between sticky ${
+          theme === "light" && "bg-gradient-to-b from-slate-500 to-transparent"
         } dark:text-white top-0 z-10 tablet:flex`}
       >
         <h1
