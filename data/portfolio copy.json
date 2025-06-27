@@ -35,14 +35,14 @@
             "id": "1",
             "title": "GreenPressing POS",
             "description": "POS System for GreenPressing Laundry",
-            "imageSrc": "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+            "imageSrc": "https://assets.grok.com/users/3170c4bf-d0b2-4667-8ab1-0d914acaef0a/generated/b6244c8e-5bdf-42a9-9e14-0a4c6c1c5e10/image.jpg",
             "url": "http://google.com/"
         },
         {
             "id": "2",
             "title": "Brikoulchi",
             "description": "Web Services Application (Collabatative Project)",
-            "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
+            "imageSrc": "https://brikoulchi.netlify.app/home_services.jpg",
             "url": "https://brikoulchi.netlify.app/"
         }
     ],

@@ -55,7 +55,7 @@ const BlogPost = ({ post }) => {
             {post.tagline}
           </h2>
         </div>
-        <ContentSection content={post.content}></ContentSection>
+        <ContentSection content={post.preview}></ContentSection>
         <Footer />
       </div>
       {process.env.NODE_ENV === "development" && (
